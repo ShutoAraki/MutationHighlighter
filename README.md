@@ -1,6 +1,9 @@
 # MutationHighlighter
 This is an extension package for UCSF Chimera.
 
+@author: Shuto Araki
+@created: December, 2017
+
 # Requirements
 UCSF Chimera Production version 1.11.2 or above
 Download the software [here](http://www.cgl.ucsf.edu/chimera/download.html).
