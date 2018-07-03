@@ -1,7 +1,16 @@
 # MutationHighlighter
-This is an extension package for UCSF Chimera.
+This is an extension package for UCSF Chimera that visualizes missense mutations with unknown significance that could be causes of rare genetic diseases.
+
+This package allows users to see where the potentially problematic residues are in certain protein as well as its possible effect on their neighbor residues by highlighting hydrogen bonds.
+
+The following is a protein called Lactate dehydrogenase A (LDHA) with its mutations obtained from ClinVar database.
+
+
+![alt text]( "LDHA")
+
 
 @author: Shuto Araki
+
 @created: December, 2017
 
 # Requirements
