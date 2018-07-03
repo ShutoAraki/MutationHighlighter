@@ -3,7 +3,7 @@ This is an extension package for UCSF Chimera that visualizes missense mutations
 
 This package allows users to see where the potentially problematic residues are in certain proteins as well as their possible effects on their neighbor residues by highlighting the hydrogen bonds.
 
-The following picture is a protein called [Lactate dehydrogenase A](https://en.wikipedia.org/wiki/Lactate_dehydrogenase_A)(LDHA) with its mutations obtained from ClinVar database.
+The following picture is a protein called [Lactate dehydrogenase A](https://en.wikipedia.org/wiki/Lactate_dehydrogenase_A)(LDHA) with its mutations obtained from [ClinVar database](https://www.ncbi.nlm.nih.gov/clinvar).
 
 
 ![alt text](https://github.com/ShutoAraki/MutationHighlighter/blob/master/LDHA_highlighted.png "LDHA")
